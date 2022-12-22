@@ -1,4 +1,4 @@
-#include "MAIN.H"
+#include "main.h"
 
 /**
  * _strcat - concatenates the string pointed to by @src to
